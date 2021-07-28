@@ -1,13 +1,13 @@
 {
-  "devtools_port": 9090,
-  "startup_app": {
-    "name": "app-1627486531155-1951",
-    "url": "https://chicagotrading.com",
-    "uuid": "app-1627486531155-1951",
-    "saveWindowState": false,
-    "autoShow": true
-  },
-  "runtime": {
-    "version": "stable"
-  }
+    "devtools_port": 9090,
+    "startup_app": {
+        "name": "app-1627506129563-3375",
+        "url": "https://chicagotrading.com",
+        "uuid": "app-1627506129563-3375",
+        "saveWindowState": false,
+        "autoShow": true
+    },
+    "runtime": {
+        "version": "stable"
+    }
 }
